@@ -1,7 +1,7 @@
 # Authorisation-and-Authentication
 Una API educativa con Javascript y tecnologías relacionadas (Postman, mongodb, express etc).
 <br>
-Desarrollador principal
+Desarrollador principal/Investigador
 <br>
 Jorge Andres Zapata Herrera
 <br>
