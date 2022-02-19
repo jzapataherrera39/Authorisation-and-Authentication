@@ -10,3 +10,5 @@ Investigadores
 Luisa Alejandra Madrid Plaza
 <br>
 Carmen Alicia Sánchez Alean
+<br>
+Daniela Torres Berrio
